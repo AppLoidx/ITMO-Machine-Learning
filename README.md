@@ -2,6 +2,7 @@
 Machine Learning
 
 * [Первая лекция](lecture/Lecture-1.md)
+* [Третья лекция](lecture/Lecture-3.md)
 
 <hr>
 
